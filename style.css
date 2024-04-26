@@ -1,0 +1,19 @@
+button{
+    background-color: darkcyan;
+    color: white;
+    border: 2px darkcyan solid;
+    font-size: xx-large;
+    border-radius: 20px;
+
+}
+body{
+    margin-top: 50px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#author{
+    color: darkgreen;
+}
+img{
+    width: 300px;
+}
